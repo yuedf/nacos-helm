@@ -1,7 +1,7 @@
 apiVersion: v1
-appVersion: "v0.1.1"
+appVersion: "v0.1.2"
 description: A Helm chart for Kubernetes
 name: nacos
-version: v0.1.1
+version: v0.1.2
 maintainers:
 - name: arrowfeng

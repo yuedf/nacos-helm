@@ -2,8 +2,19 @@ apiVersion: v1
 entries:
   nacos:
   - apiVersion: v1
+    appVersion: v0.1.2
+    created: "2020-02-10T09:39:06.270438355+08:00"
+    description: A Helm chart for Kubernetes
+    digest: d7e2335642d09b6f66ce2467fcd78d1aa16bd7712ca5869da1d649e37c9df320
+    maintainers:
+    - name: arrowfeng
+    name: nacos
+    urls:
+    - nacos-v0.1.2.tgz
+    version: v0.1.2
+  - apiVersion: v1
     appVersion: v0.1.1
-    created: "2020-02-07T14:43:54.15539174+08:00"
+    created: "2020-02-10T09:39:06.250337215+08:00"
     description: A Helm chart for Kubernetes
     digest: 28662119e1d4faf2362e848be2e1d32a5b9283c3b782c8b382665ac931b09887
     maintainers:
@@ -14,7 +25,7 @@ entries:
     version: v0.1.1
   - apiVersion: v1
     appVersion: v0.1.0
-    created: "2020-02-07T14:43:54.150468732+08:00"
+    created: "2020-02-10T09:39:06.240495367+08:00"
     description: A Helm chart for Kubernetes
     digest: ecb27b20f3e5aa3b343bffe134fe245996d10b1f4515e8a5b22e1b3fdf896a05
     maintainers:
@@ -23,4 +34,4 @@ entries:
     urls:
     - nacos-v0.1.0.tgz
     version: v0.1.0
-generated: "2020-02-07T14:43:54.135756954+08:00"
+generated: "2020-02-10T09:39:06.226229086+08:00"
